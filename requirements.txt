@@ -1,0 +1,11 @@
+scikit-image
+tensorflow
+keras
+opencv-python
+matplotlib
+numpy
+gitpython
+shapely
+pickle5     
+IPython
+telebot
