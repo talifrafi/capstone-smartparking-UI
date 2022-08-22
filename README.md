@@ -1,0 +1,2 @@
+# capstone-smartparking-UI
+This smart parking system is a project for Capstone Project Course in College as a Mandatory Task. Smart Parking System uses webcam to detect the open parking space with the help of deep learning to identify the spaces and send the information using telegram bot. This system uses MRCNN to detect the vehicles and compute it using the Intersection over Union method to determine the available parking space. This is a group work, so credentials are shared to each member of the project.
